@@ -1,0 +1,6 @@
+framework module Pods_PhotoVIewMVVMTests {
+  umbrella header "Pods-PhotoVIewMVVMTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
